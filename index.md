@@ -5,3 +5,7 @@
 ```
 print("hello world")
 ```
+Here is a task list: 
+- [ ] Finish this tutorial
+- [x] eat breakfast
+- [ ] learn to skydive
